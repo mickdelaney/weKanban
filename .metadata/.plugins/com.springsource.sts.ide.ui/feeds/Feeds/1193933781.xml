@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+	<title>SpringSource Team Blog</title>
+	
+	<link>http://blog.springsource.com</link>
+	<description>The voice of SpringSource</description>
+	<lastBuildDate>Mon, 09 May 2011 03:57:24 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.1.1</generator>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/SpringSourceTeamBlog" /><feedburner:info uri="springsourceteamblog" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>Better DSL support in Groovy-Eclipse</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/zxuKA9cWNpM/</link>
+		<comments>http://blog.springsource.com/2011/05/08/better-dsl-support-in-groovy-eclipse/#comments</comments>
+		<pubDate>Mon, 09 May 2011 03:57:24 +0000</pubDate>
+		<dc:creator>Andrew Eisenberg</dc:creator>
+				<category><![CDATA[Groovy/Grails]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Tools]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8771</guid>
+		<description>The Groovy language is an excellent platform for creating domain specific languages (DSLs). A good DSL can make programs more concise and expressive as well as make programmers more productive.  However, until now these DSLs were not directly supported by the Groovy editor. When DSLs are used heavily, standard IDE features like content assist, search, hovers, and navigation lose their value. For a while now, it has been possible to write an Eclipse plugin to extend Groovy-Eclipse, but this is a heavy-weight approach that requires specific knowledge of the Eclipse APIs. This is no longer necessary. Groovy-Eclipse now supports &lt;em&gt;DSL descriptor&lt;/em&gt; (DSLD) files that makes your DSL fully understood by Groovy-Eclipse.&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/zxuKA9cWNpM" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/05/08/better-dsl-support-in-groovy-eclipse/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/05/08/better-dsl-support-in-groovy-eclipse/</feedburner:origLink></item>
+		<item>
+		<title>Using MongoDB, Redis, Node.js, and Spring MVC in a single Cloud Foundry Application</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/YK23_a9-bAk/</link>
+		<comments>http://blog.springsource.com/2011/05/03/using-mongodb-redis-node-js-and-spring-mvc-in-a-single-cloud-foundry-application/#comments</comments>
+		<pubDate>Tue, 03 May 2011 21:39:51 +0000</pubDate>
+		<dc:creator>jbrisbin</dc:creator>
+				<category><![CDATA[3.1]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Cloud Foundry]]></category>
+		<category><![CDATA[Data Access]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Spring Data]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8735</guid>
+		<description>Traditionally, applications have been defined by the principle technology they use. If you&amp;#039;re building a Spring MVC application, we call it a &amp;#034;Java app&amp;#034;. Since our application is primarily composed of Java components, we tend to stay in our own yards and not be terribly friendly with our neighbors until we&amp;#039;re forced to interact with [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/YK23_a9-bAk" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/05/03/using-mongodb-redis-node-js-and-spring-mvc-in-a-single-cloud-foundry-application/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/05/03/using-mongodb-redis-node-js-and-spring-mvc-in-a-single-cloud-foundry-application/</feedburner:origLink></item>
+		<item>
+		<title>Getting Started with Redis, Spring Data &amp; Cloud Foundry</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/OQe1NBn-Xx0/</link>
+		<comments>http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/#comments</comments>
+		<pubDate>Wed, 27 Apr 2011 10:45:19 +0000</pubDate>
+		<dc:creator>Costin Leau</dc:creator>
+				<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Cloud Foundry]]></category>
+		<category><![CDATA[Data Access]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Spring Data]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8680</guid>
+		<description>One of the drivers behind the popularity of NoSQL solutions is performance (especially) under heavy loads. Due to their data model, key value stores lead the pack, providing lightweight yet flexible means of working with data. In this entry, I am going to quickly showcase what it takes to work with a key value store [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/OQe1NBn-Xx0" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/</feedburner:origLink></item>
+		<item>
+		<title>Advanced Spring Data JPA – Specifications and Querydsl</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/uTv38MwEYBo/</link>
+		<comments>http://blog.springsource.com/2011/04/26/advanced-spring-data-jpa-specifications-and-querydsl/#comments</comments>
+		<pubDate>Tue, 26 Apr 2011 09:52:31 +0000</pubDate>
+		<dc:creator>Oliver Gierke</dc:creator>
+				<category><![CDATA[Data Access]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8587</guid>
+		<description>In my last blog post I introduced the basic feature set of Spring Data JPA. In this post I&amp;#039;d like to dive into some more features and how they can help you simplify data access layer implementation even further. The Spring Data repository abstraction consists of an interface based programming model, some factory classes and [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/uTv38MwEYBo" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/04/26/advanced-spring-data-jpa-specifications-and-querydsl/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/04/26/advanced-spring-data-jpa-specifications-and-querydsl/</feedburner:origLink></item>
+		<item>
+		<title>Eventing Data with RabbitMQ and Riak</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/xhuW6Etwr9k/</link>
+		<comments>http://blog.springsource.com/2011/04/21/eventing-data-with-rabbitmq-and-riak/#comments</comments>
+		<pubDate>Thu, 21 Apr 2011 17:52:03 +0000</pubDate>
+		<dc:creator>jbrisbin</dc:creator>
+				<category><![CDATA[AMQP]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Data Access]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8646</guid>
+		<description>As new applications take advantage of the scalability benefits of message brokers like RabbitMQ and cloud-scale datastores like Riak, it&amp;#039;s inevitable that the two should become fast friends (the kind who actually talk to each other in person rather than the kind whose only contact is through Facebook). So many of the applications we find [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/xhuW6Etwr9k" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/04/21/eventing-data-with-rabbitmq-and-riak/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/04/21/eventing-data-with-rabbitmq-and-riak/</feedburner:origLink></item>
+		<item>
+		<title>Deeper into Grails &amp; Cloud Foundry</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/-5NjNvya6Zs/</link>
+		<comments>http://blog.springsource.com/2011/04/21/deeper-into-grails-cloud-foundry/#comments</comments>
+		<pubDate>Thu, 21 Apr 2011 08:27:25 +0000</pubDate>
+		<dc:creator>Peter Ledbrook</dc:creator>
+				<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Cloud Foundry]]></category>
+		<category><![CDATA[Groovy/Grails]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8552</guid>
+		<description>In my previous post, I showed you how easy it is to deploy a Grails application to Cloud Foundry using the corresponding plugin. Hopefully that whetted your appetite and you are ready to look at a more complex Grails application that demonstrates the power of the GORM plugins and stretches the Cloud Foundry services. If [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/-5NjNvya6Zs" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/04/21/deeper-into-grails-cloud-foundry/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/04/21/deeper-into-grails-cloud-foundry/</feedburner:origLink></item>
+		<item>
+		<title>Spring Data Graph 1.0 with Neo4j support released today</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/QSd_TJmTvgc/</link>
+		<comments>http://blog.springsource.com/2011/04/18/spring-data-graph-1-0-neo4j-support-released/#comments</comments>
+		<pubDate>Tue, 19 Apr 2011 00:26:15 +0000</pubDate>
+		<dc:creator>Michael Hunger</dc:creator>
+				<category><![CDATA[Spring]]></category>
+		<category><![CDATA[Spring Data]]></category>
+		<category><![CDATA[Graph Database]]></category>
+		<category><![CDATA[Neo4j]]></category>
+		<category><![CDATA[NOSQL]]></category>
+		<category><![CDATA[release]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8607</guid>
+		<description>This announcement post is a guest contribution by the developers of the Neo4j team that worked closely with SpringSource&amp;#039;s Spring Data team to provide the Spring Data Graph integration library. For a friendly introduction to Spring Data Graph we’re hosting a free webinar with VMware presented by Neo Technology’s CEO Emil Eifrem on April 20 [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/QSd_TJmTvgc" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/04/18/spring-data-graph-1-0-neo4j-support-released/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/04/18/spring-data-graph-1-0-neo4j-support-released/</feedburner:origLink></item>
+		<item>
+		<title>Using Cloud Foundry from STS</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/IRLvP7mYHG8/</link>
+		<comments>http://blog.springsource.com/2011/04/13/using-cloud-foundry-from-sts/#comments</comments>
+		<pubDate>Wed, 13 Apr 2011 10:00:02 +0000</pubDate>
+		<dc:creator>Christian Dupuis</dc:creator>
+				<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Cloud Foundry]]></category>
+		<category><![CDATA[Tools]]></category>
+		<category><![CDATA[VMware]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8559</guid>
+		<description>By now you probably heard about Cloud Foundry, the open PaaS from VMware that was announced yesterday; if not make sure to check out the recording of the webcast. Eventually you have already read earlier blog posts introducing the Spring support for Cloud Foundry, the add-on for Spring Roo and the Grails plug-in. With this [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/IRLvP7mYHG8" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/04/13/using-cloud-foundry-from-sts/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/04/13/using-cloud-foundry-from-sts/</feedburner:origLink></item>
+		<item>
+		<title>One-step deployment with Grails and Cloud Foundry</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/9iAZP39TwXA/</link>
+		<comments>http://blog.springsource.com/2011/04/12/one-step-deployment-with-grails-and-cloud-foundry/#comments</comments>
+		<pubDate>Tue, 12 Apr 2011 20:30:10 +0000</pubDate>
+		<dc:creator>Peter Ledbrook</dc:creator>
+				<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Cloud Foundry]]></category>
+		<category><![CDATA[Groovy/Grails]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8444</guid>
+		<description>A couple of years back, the co-founder of a startup spoke at the London Groovy and Grails User Group. I remember vividly how he said he dreamed of deploying a Grails application with &amp;#034;just one click&amp;#034;. With the announcement of the new Cloud Foundry service, his dream is nearly a reality for all Grails users. [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/9iAZP39TwXA" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/04/12/one-step-deployment-with-grails-and-cloud-foundry/feed/</wfw:commentRss>
+		<slash:comments>18</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/04/12/one-step-deployment-with-grails-and-cloud-foundry/</feedburner:origLink></item>
+		<item>
+		<title>Roo + Cloud Foundry = Productivity in the Cloud</title>
+		<link>http://feedproxy.google.com/~r/SpringSourceTeamBlog/~3/T_RjP3n6f8k/</link>
+		<comments>http://blog.springsource.com/2011/04/12/roo-cloud-foundry-productivity-in-the-cloud/#comments</comments>
+		<pubDate>Tue, 12 Apr 2011 19:48:39 +0000</pubDate>
+		<dc:creator>James Tyrrell</dc:creator>
+				<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Roo]]></category>
+
+		<guid isPermaLink="false">http://blog.springsource.com/?p=8462</guid>
+		<description>Today marks an important day for developers, with the public beta release of Cloud Foundry, VMware’s open source Platform as a Service offering. Rod Johnson’s blog contains a lot of background details about this exciting announcement, and Mark Fisher’s post offers a first look at the service and how easily applications can move between a [...]&lt;img src="http://feeds.feedburner.com/~r/SpringSourceTeamBlog/~4/T_RjP3n6f8k" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blog.springsource.com/2011/04/12/roo-cloud-foundry-productivity-in-the-cloud/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		<feedburner:origLink>http://blog.springsource.com/2011/04/12/roo-cloud-foundry-productivity-in-the-cloud/</feedburner:origLink></item>
+	</channel>
+</rss>

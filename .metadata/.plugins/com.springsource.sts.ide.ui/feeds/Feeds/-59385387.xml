@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://www.springsource.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>SpringSource.org</title>
+ <link>http://www.springsource.org</link>
+ <description>Welcome to the home of Spring, the leading platform to build and run enterprise Java applications. Led and sustained by SpringSource, Spring delivers significant benefits for many projects, increasing development productivity and runtime performance while improving test coverage and application quality.</description>
+ <language>en</language>
+<item>
+ <title>SpringSource Tool Suite 2.7.0.M1 Released</title>
+ <link>http://www.springsource.org/node/3131</link>
+ <description>&lt;p&gt;Dear Spring Community,&lt;/p&gt;
+&lt;p&gt;I&#039;m pleased to announce that we just released the first milestone build for the next release of the SpringSource Tool Suite (STS).&lt;/p&gt;
+&lt;p&gt;Appearing shortly after the 2.6.1 maintenance release, this milestone brings mostly new features for Groovy&amp;amp;Grails developers, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Groovy 1.8 support&lt;/li&gt;
+&lt;li&gt;Conditional breakpoints for Groovy&lt;/li&gt;
+&lt;li&gt;Search inside GSPs&lt;/li&gt;
+&lt;li&gt;Early access Gradle support&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details can be found in the &lt;a href=&quot;http://download.springsource.com/release/STS/doc/STS-new_and_noteworthy-2.7.0.M1.pdf&quot;&gt;New and Noteworthy for 2.7.0.M1&lt;/a&gt;  document. Detailed &lt;a href=&quot;http://download.springsource.com/release/STS/doc/STS-installation_instructions.pdf&quot;&gt;installation instructions&lt;/a&gt; are also available, please look at the installation from the milestone update sites.&lt;/p&gt;
+&lt;p&gt;As always downloads are available from the &lt;a href=&quot;http://www.springsource.com/landing/best-development-tool-enterprise-java&quot;&gt;STS download page&lt;/a&gt;, check &quot;Other Downloads&quot;.&lt;/p&gt;
+&lt;p&gt;The second milestone build is planned for mid of June, followed by the release at the beginning of July.&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/3131#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 11 May 2011 12:55:00 +0000</pubDate>
+ <dc:creator>Martin Lippert</dc:creator>
+ <guid isPermaLink="false">3131 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>This Week in Spring: May 10th, 2011</title>
+ <link>http://www.springsource.org/node/3130</link>
+ <description>&lt;P&gt;  May&#039;s well underway and all the preparations for the  &lt;a href=&quot;http://www.springsource.org/node/3128&quot;&gt;S2G  Forums in Amsterdam and London&lt;/a&gt; are complete. These S2G Forums are the  premiere place for people in Europe to get access to the best information related to the Spring community (at a minimum cost!). I hope we&#039;ll see you in  &lt;a  href=&quot;http://www.springsource.com/events/s2gforum-5-26-2011-amsterdam&quot;&gt;Amsterdam (May 26, 2011 - &amp;euro; 114 )&lt;/a&gt; and / or &lt;a href =&quot;http://www.springsource.com/events/s2gforum-5-31-2011-london&quot;&gt;London (May 31, 2011 - &amp;#163 99)&lt;/a&gt;!
+&lt;/p&gt;
+&lt;p&gt;  
+ In the interim, those of you that want an even better picture of how the Spring framework plays on the nascent CloudFoundry open-source cloud PaaS project should be sure to attend a webinar - Spring from Zero to Cloud in 60 minutes for both &lt;a href=&quot;http://www.springsource.org/node/3126&quot;&gt;North America&lt;/a&gt; and &lt;a href=&quot;http://www.springsource.org/node/3126&quot;&gt;Europe&lt;/a&gt; in just 10 short days!
+
+&lt;/p&gt;
+	
+  &lt;OL&gt;
+	 	&lt;LI&gt; 
+		 &lt;a href =&quot;http://www.springsource.org/node/3127&quot;&gt;SpringSource Tool Suite 2.6.1 Released&lt;/a&gt;. This release features the usual updates and features. Some particularly notable features: an updated bundled version of &lt;a href=&quot;http://www.springsource.com/products/tcserver&quot;&gt;vFabric tc Server, version 2.5,&lt;/a&gt;     improved support for tc Server instance creation and an update to the latest release of Spring Roo, version 1.1.3 and (&lt;em&gt;yay!&lt;/em&gt;) bundled support for &lt;a href=&quot;http://www.cloudfoundry.org&quot;&gt;CloudFoundry&lt;/a&gt;.  Check out the &lt;A href=&quot;http://download.springsource.com/release/STS/doc/STS-new_and_noteworthy.pdf&quot;&gt;New and Noteworthy&lt;/a&gt; PDF document for the details.
+		&lt;/li&gt; 
+		
+		&lt;li&gt; The  &lt;A HREF=&quot;http://blog.cloudfoundry.com/&quot;&gt;CloudFoundry blog&lt;/a&gt; has run two different parts with a detailed look at  what happens when you &lt;code&gt;push&lt;/code&gt; applications to the CloudFoundry project. The first post details what happens from the &lt;a href=&quot;http://blog.cloudfoundry.com/post/4737632136/what-happens-when-you-vmc-push-an-application-to-cloud&quot;&gt;client-side perspective&lt;/a&gt;. The second post provides details on what happens from &lt;a href=&quot;http://blog.cloudfoundry.com/post/5223861703/how-cloud-foundry-works-when-a-new-application-is&quot;&gt;the cloud-side perspective, once the application&#039;s been &lt;code&gt;push&lt;/code&gt;-ed.&lt;/a&gt; Check it out! All of this information, of course, can be gleamed by looking &lt;a href=&quot;http://www.github.com/CloudFoundry&quot;&gt;at the source&lt;/a&gt;, but it&#039;s nice to have it laid out clearly. Makes reading the source easier, too! 
+	&lt;/li&gt;
+
+	&lt;li&gt;
+	&lt;a href=&quot;http://www.springsource.org/spring-android/news/1.0.0.m3-released&quot;&gt;Spring Android 1.0.0.M3 Released&lt;/a&gt;: Spring Android supports usage of the Spring Framework in a Android environment. The 1.0.0.M3 release focuses on extending the use of Spring Social in native Android applications including support for Spring Social 1.0.0.M3 and updated RestTemplate (client) support for Spring 3.1.0.M1. Be sure to check out Roy Clarkson&#039;s blog posts on getting started: &lt;a href=&quot;http://blog.springsource.com/2010/12/17/spring-android-and-maven-part-1/&quot;&gt;Part 1&lt;/a&gt; and &lt;a href=&quot;http://blog.springsource.com/2011/02/09/spring-android-and-maven-part-2/&quot;&gt;Part 2&lt;/a&gt;. 
+	&lt;/li&gt;
+
+	&lt;LI&gt; 
+		Want to learn even more about &lt;a href=&quot;http://www.springsource.org/spring-android&quot;&gt;Spring Android&lt;/a&gt;? The project helps make it dead-simple to consume RESTful services from an Android client. &lt;a href=&quot;http://www.android-peru.com/Connecting-RESTful-Web-Services-Android-Spring-Rest&quot;&gt;Here&#039;s a cool talk about consuming RESTful web services using Spring Android&#039;s &lt;code&gt;RestTemplate&lt;/code&gt;&lt;/a&gt; from the Android-Peru.com portal (the talk&#039;s in Spanish, although the code examples are universal!).    
+	&lt;/li&gt;
+
+	&lt;li&gt;
+		&lt;a href=&quot;http://www.tomcatexpert.com&quot;&gt;TomcatExpert.com&lt;/a&gt; keeps publishing more and more great content for those enterprise developers and admins interested in getting the most out of Tomcat. The latest post talks about &lt;a href=&quot;http://www.tomcatexpert.com/blog/2011/05/09/cross-site-request-forgery&quot;&gt;Cross-Site Request Forgery&lt;/a&gt; and how new features in Tomcat 7 can protect against it. 
+	&lt;/li&gt;
+	
+	  &lt;LI&gt; 
+		Tobias Mattsson has just posted a blog on how to use 
+		 &lt;a href =&quot;http://tobias-mattsson-magnolia.blogspot.com/2011/05/twitter-and-spring-social-in-magnolia.html&quot;&gt;Spring Social to show recent Tweets in Magnolia CMS.&lt;/a&gt; He also talks about a technology called &lt;a href=&quot;http://documentation.magnolia-cms.com/modules/blossom.html&quot;&gt;Blossom,&lt;/a&gt; which lets you embed Spring MVC controllers in a Magnolia page. Lots of cool stuff in this post! 
+		&lt;/li&gt;
+
+	 &lt;LI&gt;
+		MyNoSQL, a community blog about NoSQL technologies, has just put up a introspective look at the &lt;a href=&quot;http://nosql.mypopescu.com/post/5244372217/mongodb-adoption-in-the-java-world&quot;&gt;adoption of MongoDB&lt;/a&gt; in Java and also discusses other challenges in &lt;em&gt;big data&lt;/em&gt;. My Conclusion:  Grails, Spring, Spring Data and CloudFoundry are leading the way!
+		 &lt;/li&gt; 
+		
+		&lt;li&gt;
+      A blog, aptly named &quot;Roo Findings&quot;, has just written a summary post about &lt;a href=&quot;http://pragmatikroo.blogspot.com/2011/05/spring-roo-year-of-productivity.html&quot;&gt;his year long odyssey&lt;/a&gt; learning, using and &lt;strong&gt;loving&lt;/strong&gt; Spring Roo. Lots of neat content in there, check it out!
+		&lt;/li&gt; 
+		
+		&lt;LI&gt;This post - by Oxen Software Studio - illustrates two different approaches (one in Guice, one in Spring) to solving the following scenario: &lt;a href=&quot;http://blog.oxen.com.ar/2011/05/scope-strategies-spring-and-guice.html&quot;&gt;I&#039;ve got a scoped bean, and I need to access it from a singleton.&lt;/a&gt; The steps to get to the final answer are as revealing as the final answer itself, since I suspect a lot of people don&#039;t know that you can do this, let alone how easy Spring makes it.  
+	     &lt;/li&gt;
+	 &lt;/ol&gt;</description>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 11 May 2011 05:19:49 +0000</pubDate>
+ <dc:creator>Adam Fitzgerald</dc:creator>
+ <guid isPermaLink="false">3130 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Spring Android 1.0.0.M3 Released</title>
+ <link>http://www.springsource.org/spring-android/news/1.0.0.m3-released</link>
+ <description>&lt;p&gt;Dear Spring Community,&lt;/p&gt;
+&lt;p&gt;We are pleased to announce that the third milestone release of the &lt;a href=&quot;http://www.springsource.org/spring-android&quot;&gt;Spring Android&lt;/a&gt; project is now available!&lt;/p&gt;
+&lt;p&gt;Spring Android supports usage of the Spring Framework in a Android environment. The 1.0.0.M3 release focuses on extending the use of Spring Social in native Android applications.  This includes:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Support for Spring Social 1.0.0.M3 through the new &lt;a href=&quot;http://static.springsource.org/spring-android/docs/1.0.x/reference/html/auth.html&quot;&gt;Spring Android Auth&lt;/a&gt; module, which includes a SQLite datastore for persisting API connections. Spring Social is currently supported in Android version 2.3.1 (API Level 9) and higher.
+    &lt;li&gt;Updated RestTemplate (client) support, now at the level of Spring Framework 3.1.0.M1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To get the software, &lt;a target=&quot;_blank&quot; href=&quot;http://www.springsource.com/download/community?project=Spring%20Android&amp;version=1.0.0.M3&quot;&gt;download&lt;/a&gt; the release distribution, or simply add the &lt;a target=&quot;_blank&quot; href=&quot;http://static.springsource.org/spring-android/docs/1.0.x/reference/html/auth.html#auth-howtoget&quot;&gt;maven artifacts&lt;/a&gt; to your project.  To see the features live, check out the &lt;a href=&quot;http://git.springsource.org/spring-mobile/samples&quot;&gt;spring-android-showcase&lt;/a&gt; (updated for 1.0.0.M3): &lt;br/&gt;&lt;code&gt;git clone git://git.springsource.org/spring-mobile/samples.git; cd samples/spring-android-showcase; more README&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;In addition to the &lt;a href=&quot;http://static.springsource.org/spring-android/docs/1.0.x/reference/html&quot;&gt;reference guide&lt;/a&gt;, Roy Clarkson has authored two blog posts to help you get started developing Android applications:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://blog.springsource.com/2010/12/17/spring-android-and-maven-part-1/&quot;&gt;Spring Android and Maven (Part 1)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://blog.springsource.com/2011/02/09/spring-android-and-maven-part-2/&quot;&gt;Spring Android and Maven (Part 2)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/p&gt;
+&lt;p&gt;If you&#039;re building native Android applications, we invite you to &lt;a href=&quot;http://forum.springsource.org/forumdisplay.php?f=85&quot;&gt;collaborate&lt;/a&gt; with us on the Spring Android project!&lt;/p&gt;</description>
+ <comments>http://www.springsource.org/spring-android/news/1.0.0.m3-released#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Tue, 10 May 2011 07:37:23 +0000</pubDate>
+ <dc:creator>Roy Clarkson</dc:creator>
+ <guid isPermaLink="false">3129 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Cloud Foundry Sessions Added to S2G Forum in London and Amsterdam</title>
+ <link>http://www.springsource.org/node/3128</link>
+ <description>&lt;p&gt;&lt;div align=&quot;center&quot;&gt;&lt;a href=&quot;http://www.springsource.com/events/s2gforum-5-31-2011-london&quot;&gt;&lt;img src=&quot;/files/S2GForum_2011_BothLocations_1.png&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.cloudfoundry.com&quot;&gt;Cloud Foundry&lt;/a&gt; provides a phenomenal open source Platform-as-a-Service to run Spring and Grails applications. The upcoming S2G Forums in &lt;a href=&quot;http://www.springsource.com/events/s2gforum-5-26-2011-amsterdam&quot;&gt;Amsterdam&lt;/a&gt; and &lt;a href=&quot;http://www.springsource.com/events/s2gforum-5-31-2011-london&quot;&gt;London&lt;/a&gt; have been updated to include special sessions covering how to use Cloud Foundry to build modern cloud ready applications. The presentations will describe how to leverage cloud services, like MongoDB, Redis, &amp; RabbitMQ, and illuminate the architectural details behind Java execution on Cloud Foundry. If you want to get deep into the cloud, make sure you register for one of these events. &lt;/p&gt;
+
+
+&lt;p&gt; This one day, multi-track, lecture-based forum gives developers, engineers and IT managers the latest information about modern enterprise application architecture, development practices, and cloud service capabilities. The sessions are all presented by the technical thought leaders from &lt;a href=&quot;http://www.springsource.com&quot;&gt;SpringSource&lt;/a&gt;, so be sure to register for the event nearest to you. &lt;/p&gt;
+
+
+&lt;p&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;table border=&quot;0&quot; width=&quot;80%&quot;&gt;
+&lt;tr&gt;
+ &lt;td width=&quot;40%&quot;&gt;&lt;a href=&quot;http://www.springsource.com/events/s2gforum-5-26-2011-amsterdam&quot;&gt;&lt;strong&gt;Amsterdam&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;May 26th 2011&lt;br /&gt;NH Grand Hotel Krasnapolsky&lt;br /&gt;Cost per attendee is € 114&lt;br /&gt;&lt;a href=&quot;http://www.seeuthere.com/vm/springsourceamsterdam2011&quot;&gt;Register Now!&lt;/a&gt;&lt;/td&gt;
+ &lt;td width=&quot;40%&quot;&gt;&lt;a href=&quot;http://www.springsource.com/events/s2gforum-5-31-2011-london&quot;&gt;&lt;strong&gt;London&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;May 31st 2011&lt;br /&gt;The London Hilton on Park Lane&lt;br /&gt;Cost per attendee is £ 99&lt;br /&gt;&lt;a href=&quot;http://www.seeuthere.com/vm/springsourcelondon2011&quot;&gt;Register Now!&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;/p&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://www.springsource.org/node/3128#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Tue, 10 May 2011 03:49:49 +0000</pubDate>
+ <dc:creator>Adam Fitzgerald</dc:creator>
+ <guid isPermaLink="false">3128 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>SpringSource Tool Suite 2.6.1 Released</title>
+ <link>http://www.springsource.org/node/3127</link>
+ <description>&lt;p&gt;Dear Spring Community,&lt;/p&gt;
+&lt;p&gt;We&#039;re pleased to announce the new release 2.6.1 of the SpringSource Tool Suite (STS).&lt;/p&gt;
+&lt;p&gt;The release brings you:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;vFabric tc Server 2.5 packaged and supported&lt;/li&gt;
+&lt;li&gt;Bugfixes for tc Server instance creation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;More details on new features and bug fixes can be found in the &lt;a href=&quot;http://download.springsource.com/release/STS/doc/STS-new_and_noteworthy.pdf&quot;&gt;New and Noteworthy&lt;/a&gt; document. Detailed &lt;a href=&quot;http://download.springsource.com/release/STS/doc/STS-installation_instructions.pdf&quot;&gt;installation instructions&lt;/a&gt; are also available.&lt;/p&gt;
+&lt;p&gt;As always downloads are available from the &lt;a href=&quot;http://www.springsource.com/landing/best-development-tool-enterprise-java&quot;&gt;STS download page&lt;/a&gt;.&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/3127#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Fri, 06 May 2011 13:40:52 +0000</pubDate>
+ <dc:creator>Martin Lippert</dc:creator>
+ <guid isPermaLink="false">3127 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>This week in Spring: May 3rd, 2011</title>
+ <link>http://www.springsource.org/node/3124</link>
+ <description> 
+  
+
+  &lt;p&gt; 
+
+  It&#039;s May, already! Seems like just yesterday we were toasting the arrival of the new year... 
+
+  As they say, time flies when you&#039;re having fun! This year&#039;s been a roller coaster - exciting news and events every day -   too much to keep up with, certainly! 
+
+  &lt;/p&gt;
+
+   
+
+ &lt;OL&gt;   
+
+ &lt;li&gt; Jon Brisbin has written up   &lt;a href=&quot;http://blog.springsource.com/2011/05/03/using-mongodb-redis-node-js-and-spring-mvc-in-a-single-cloud-foundry-application/&quot;&gt;an &lt;em&gt;epic&lt;/em&gt; post introducing the CloudFoundry project and many of the technologies that you can use on it.&lt;/a&gt; 
+
+ This was just put up today, and is now one of my favorite blogs introducing CloudFoundry; it&#039;s so ambitious, just like CloudFoundry itself!
+
+&lt;/li&gt;
+
+&lt;LI&gt; Another masterpiece of a sample is the blog that Costin Leau wrote, &lt;a href=&quot;http://blog.springsource.com/2011/04/27/getting-started-redis-spring-cloud-foundry/&quot;&gt;Getting Started with Redis and Spring Cloud Foundry&lt;/a&gt;. This post is well worth reading whether you&#039;re doing CloudFoundry, Spring Data, or both. A dynamic duo, indeed! 
+
+  &lt;/lI&gt;
+
+	&lt;li&gt;European community members can learn more about Spring, Spring Data and Cloud Foundry at the S2G Forum Series: &lt;a href=&quot;http://www.springsource.com/events/s2gforum-5-26-2011-amsterdam&quot;&gt;Amsterdam (May 26th)&lt;/a&gt; and &lt;a href=&quot;http://www.springsource.com/events/s2gforum-5-31-2011-london&quot;&gt;London (May 31st)&lt;/a&gt;. There will be tons of great sessions about Spring, Groovy and Grails as well as talks focused specifically on CloudFoundry, Tomcat and Gemfire so be sure to &lt;a href=&quot;http://www.springsource.org/s2gforum2011&quot;&gt;register for the event&lt;/a&gt; closest to you. 
+
+	&lt;/li&gt;
+
+  &lt;li&gt; &lt;a href=&quot;http://www.springsource.org/node/3122&quot;&gt;Spring Security 3.1.0.RC2 Released&lt;/a&gt; -- the title sums it up. Check out the link for the changelog. For more on Spring Security, keep reading - there are a couple of very interesting posts about Spring Security a little further down!  &lt;/li&gt;
+
+   &lt;li&gt; &lt;A href=&quot;http://www.springsource.org/spring-social/news/1.0.0.m3-released&quot;&gt;Spring Social 1.0.0.M3 Released&lt;/a&gt;. The new release continues the exciting evolution of the core concepts laid out in the earlier releases. Specifically, this new release enhances the APIs for some of the social APIs, extends the plugin mechanism, and provides a pre-packaged Spring MVC &lt;CODE&gt;Controller&lt;/CODE&gt; that adds provider sign in capability to your application.    
+
+&lt;/li&gt;
+
+ &lt;LI&gt; On the CloudFoundry blog, &lt;a HREF=&quot;http://blog.cloudfoundry.com/post/5161514264/the-cloud-foundry-community&quot;&gt;Killian Murphy updates the community on the latest and greatest on in the CloudFoundry project&lt;/a&gt;. The activity&#039;s been amazing, and the fact that - in the three weeks since CloudFoundry&#039;s debut - people have submitted GitHub.com pull requests for JRuby, PHP and Erlang support in the CloudFoundry open-source PaaS is a testament to this. Amazing!
+
+ &lt;/li&gt;
+
+
+
+  &lt;li&gt; 
+
+ Recently, SpringSource put up a survey about dm Server and Virgo usage. The results of that survey &lt;a href=&quot;http://www.springsource.org/node/3123&quot;&gt;are available here&lt;/a&gt;.   
+
+ &lt;/li&gt;
+
+ &lt;LI&gt;In this post - &lt;A href=&quot;http://java.dzone.com/articles/single-spring-application&quot;&gt;Single Spring Application Deployment for both Local and CloudFoundry.com Servers&lt;/a&gt; - David Salter introduces Spring 3.1&#039;s profiles, and how to use them to deploy a single both locally and in the cloud.  Check it out for a good step-by-step! 
+
+&lt;/li&gt; 
+
+ &lt;LI&gt;Tobias Trelle  &lt;a href=&quot;http://blog.codecentric.de/en/2011/04/amqp-messaging-with-rabbitmq/&quot;&gt;introduces  RabbitMQ and Spring&lt;/a&gt;, walking the developer through installation and setup. 
+
+&lt;/li&gt;
+
+  &lt;LI&gt;Rafal Borowiec introduces &lt;A HREF=&quot;http://blog.codeleak.pl/2011/04/spring-security-31-enhanced-security.html&quot;&gt;Spring Security 3.1&#039;s enhanced security namespace configuration&lt;/A&gt;.   &lt;/li&gt; 
+
+&lt;LI&gt;Steffen Luypaert writes an interesting post on &lt;A HREF=&quot;http://integratingstuff.com/2011/04/30/migrating-from-spring-security-2-to-spring-security-3/ &quot;&gt;migrating from Spring Security 2 to Spring Security 3&lt;/A&gt;. It highlights the few specific steps - including a few &quot;gotchas&quot; that might strike very specific cases - required to ensure a smooth upgrade. Very cool!
+
+&lt;/li&gt;
+
+ &lt;LI&gt;A perspective on the CloudFoundry PaaS. The thrust of it - &lt;a href=&quot;http://cloud.dzone.com/news/vmware%E2%80%99s-cloud-foundry-ushers&quot;&gt;that CloudFoundry reduces friction and enables developers&lt;/a&gt; - should resonate well with the numerous developers who&#039;ve had a chance to work with it already. Check it out, and of course then follow up with a visit to &lt;A HREF=&quot;http://www.cloudfoundry.com&quot;&gt;CloudFoundry.com&lt;/a&gt; and &lt;A HREF=&quot;http://www.CloudFoundry.org&quot;&gt;CloudFoundry.org&lt;/a&gt; to try it out for yourself and learn more!
+
+  &lt;/li&gt;
+
+   &lt;li&gt; People ask me frequently about the best way to learn Spring and how to get training to improve their Spring skills. Without exception, I refer them to the SpringSource training that is created by the project leads and engineers behind the Spring technologies. The trainers are also some of the most knowledgeable people at SpringSource - they have the macro, birds-eye view &lt;em&gt;and&lt;/em&gt; the micro view of the entire technology stack from concepts to API to implementation. So, I&#039;m pleased to remind you that SpringSource has just announced new certifications for trainings and the training schedule. See &lt;a href=&quot;http://www.springsource.com/training/certification&quot;&gt;this overview of certification&lt;/a&gt;  and &lt;a HREF=&quot;http://www.springsource.org/spring-training-may-2011&quot;&gt;this schedule&lt;/a&gt; post for more information. 
+
+ If you&#039;re like me, and you&#039;ve been using and advocating Spring and the Spring projects since the very beginning, then please understand that there&#039;s very likely still something for you in this training. I was &lt;em&gt;stunned&lt;/em&gt; by how much I learned!  
+
+  &lt;/li&gt;  
+
+&lt;/OL&gt; </description>
+ <comments>http://www.springsource.org/node/3124#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Wed, 04 May 2011 01:12:25 +0000</pubDate>
+ <dc:creator>Josh Long</dc:creator>
+ <guid isPermaLink="false">3124 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Results of survey of Virgo and SpringSource dm Server usage</title>
+ <link>http://www.springsource.org/node/3123</link>
+ <description>&lt;p&gt;Thanks to everyone who responded to the recent Virgo and SpringSource dm Server survey. The results are summarised in &lt;a href=&quot;http://underlap.blogspot.com/2011/05/virgo-survey-results.html&quot;&gt;this blog&lt;/a&gt; which also contains links to the raw survey data.&lt;/p&gt;
+&lt;p&gt;Highlights from the blog:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Close to one quarter of respondents report they are &quot;in production&quot;&lt;/li&gt;
+&lt;li&gt;The transfer to Eclipse.org is a success: 84% of respondents are using Virgo exclusively&lt;/li&gt;
+&lt;li&gt;Virgo is popular with early adopters: 59% of respondents are using 2.1.x or 3.0 milestones and 25% are exclusively on 3.0 milestones&lt;/li&gt;
+&lt;li&gt;The Virgo kernel is seeing significant usage: 16% of respondents are using the kernel exclusively; 5% are in production&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+ <comments>http://www.springsource.org/node/3123#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Tue, 03 May 2011 13:43:30 +0000</pubDate>
+ <dc:creator>gnormington</dc:creator>
+ <guid isPermaLink="false">3123 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Spring Security 3.1.0.RC2 Released</title>
+ <link>http://www.springsource.org/node/3122</link>
+ <description>&lt;p&gt;We&#039;re pleased to an announce the second release candidate for Spring Security 3.1&lt;/p&gt;
+&lt;p&gt;Please see the &lt;a href=&quot;http://static.springsource.org/spring-security/site/changelog.html&quot;&gt;changelog&lt;/a&gt; for a full list of updates.&lt;/p&gt;
+&lt;p&gt;The release is available from the &lt;a href=&quot;http://www.springsource.com/download/community?project=Spring%20Security&quot;&gt;Spring Community Downloads area&lt;/a&gt; and also from the SpringSource maven repository.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.springsource.com/download/community?project=Spring%20Security&amp;amp;version=3.1.0.RC2&quot;&gt;Download&lt;/a&gt; | &lt;a href=&quot;http://static.springsource.org/spring-security/site/changelog.html&quot;&gt;Changelog&lt;/a&gt; | &lt;a href=&quot;http://static.springsource.org/spring-security/site/docs/3.1.x/reference/springsecurity.html&quot;&gt;Reference Manual&lt;/a&gt; | &lt;a href=&quot;http://static.springsource.org/spring-security/site/faq.html&quot;&gt;FAQ&lt;/a&gt;&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/node/3122#comments</comments>
+ <pubDate>Fri, 29 Apr 2011 22:48:36 +0000</pubDate>
+ <dc:creator>Luke Taylor</dc:creator>
+ <guid isPermaLink="false">3122 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>Spring Training by the Creators of Spring</title>
+ <link>http://www.springsource.org/spring-training-may-2011</link>
+ <description>&lt;p&gt;&lt;img align=&quot;right&quot;  padding=&quot;10&quot; width=&quot;150&quot; alt=&quot;SpringSource Certification&quot; border=&quot;0&quot; src=&quot;http://www.springsource.com/files/uploads/all/images/product/Logo_Spring_252x150.png&quot;&lt;/p&gt;&lt;p&gt;Make sure that you have the knowledge and credentials needed to meet our industry’s skyrocketing demands for skills in Spring. Attend one of the upcoming SpringSource courses happening all over the world within the next few weeks and gain the hands-on training you need. Courses have been designed for developers, architects and administrators. See our full course schedule below:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;North America&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.springsource.com/training/class?classID=94541&quot;&gt;Live Online&lt;/a&gt; |
+&lt;a href=&quot;http://www.springsource.com/training/class?classID=95158&quot;&gt;
+Atlanta, GA&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=92048&quot;&gt;
+Austin, TX&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95157&quot;&gt;
+Boston, MA&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91030&quot;&gt;
+Calgary, AB&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95155&quot;&gt;
+Chicago, IL&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95152&quot;&gt;
+Columbia, MD&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95153&quot;&gt;
+Dallas, TX&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95151&quot;&gt;
+Denver, CO&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=92049&quot;&gt;
+Detroit, MI&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91185&quot;&gt;
+Edison, NJ&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91032&quot;&gt;
+Edmonton, AB&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95554&quot;&gt;
+Hartford, CT&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=92050&quot;&gt;
+Los Angeles, CA&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=92051&quot;&gt;
+Miami, FL&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91425&quot;&gt;
+Minneapolis, MN&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91179&quot;&gt;
+Montreal, QC&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91046&quot;&gt;
+New York, NY&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=92052&quot;&gt;
+Omaha, NE&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91170&quot;&gt;
+Ottawa, ON&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95964&quot;&gt;
+Philadelphia, PA&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91158&quot;&gt;
+Phoenix, AZ&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95159&quot;&gt;
+Richmond, VA&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=92047&quot;&gt;
+Salt Lake, UT&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91044&quot;&gt;
+San Francisco, CA&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91177&quot;&gt;
+San Jose, CA&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91180&quot;&gt;
+Toronto, ON&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91031&quot;&gt;
+Vancouver, BC&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95160&quot;&gt;
+Washington, DC&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95150&quot;&gt;
+Westbrook, ME&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Europe, Middle East &amp; Africa&lt;/strong&gt;&lt;br /&gt;
+&lt;a href=&quot;http://www.springsource.com/training/class?classID=91581&quot;&gt;Austria&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=90892&quot;&gt;Belgium&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91582&quot;&gt;Croatia&lt;/a&gt; | &lt;a 
+href=&quot;http://www.springsource.com/training/class?classID=91577&quot;&gt;Czech Republic&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=84921&quot;&gt;Egypt&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91564&quot;&gt;Finland&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=90354&quot;&gt;France&lt;/a&gt; | &lt;a 
+href=&quot;http://www.springsource.com/training/class?classID=89679&quot;&gt;Germany&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91569&quot;&gt;Ireland&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91578&quot;&gt;Israel&lt;/a&gt; | &lt;a 
+href=&quot;http://www.springsource.com/training/class?classID=94706&quot;&gt;Italy&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91576&quot;&gt;Kenya&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=90888&quot;&gt;Netherlands&lt;/a&gt; | &lt;a 
+href=&quot;http://www.springsource.com/training/class?classID=91573&quot;&gt;Poland&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=97090&quot;&gt;Portugal&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91575&quot;&gt;Russia&lt;/a&gt; | &lt;a 
+href=&quot;http://www.springsource.com/training/class?classID=90891&quot;&gt;Slovakia&lt;/a&gt; | &lt;a 
+href=&quot;http://www.springsource.com/training/class?classID=91563&quot;&gt;South Africa&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=93102&quot;&gt;Spain&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=87626&quot;&gt;Sweden&lt;/a&gt; | &lt;a 
+href=&quot;http://www.springsource.com/training/class?classID=91584&quot;&gt;Switzerland&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91572&quot;&gt;Ukraine&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=95269&quot;&gt;United Kingdom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Asia-Pacific&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;http://www.springsource.com/training/class?classID=93407&quot;&gt;Auckland, New Zealand&lt;/a&gt; |
+&lt;a href=&quot;http://www.springsource.com/training/class?classID=91989&quot;&gt;
+Bangalore, India&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=93405&quot;&gt;
+Brisbane, Australia&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91990&quot;&gt;
+Delhi, India&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=94504&quot;&gt;
+Kuala Lumpur, Malaysia&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=93926&quot;&gt;
+Melbourne, Australia&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=91199&quot;&gt;
+Pune, India&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=94503&quot;&gt;
+Singapore&lt;/a&gt; | &lt;a href=&quot;http://www.springsource.com/training/class?classID=93408&quot;&gt;
+Sydney, Australia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;South America&lt;/strong&gt;&lt;br /&gt;&lt;a href=&quot;http://www.springsource.com/training/class?classID=94629&quot;&gt;Bogota, Colombia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Seats are limited, view the &lt;a href=&quot;http://www.springsource.com/training&quot;&gt;
+Complete SpringSource Training Schedule&lt;/a&gt; and register today!&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/spring-training-may-2011#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Fri, 29 Apr 2011 17:53:29 +0000</pubDate>
+ <dc:creator>Mark Baars</dc:creator>
+ <guid isPermaLink="false">3121 at http://www.springsource.org</guid>
+</item>
+<item>
+ <title>New SpringSource Certifications Available</title>
+ <link>http://www.springsource.org/certification/web-developer</link>
+ <description>&lt;div align=&quot;left&quot; padding=&quot;10&quot; &gt;&lt;a href=&quot;http://www.springsource.com/training/certification/webspecialist&quot;&gt;&lt;img alt=&quot;SpringSource Certification&quot; border=&quot;0&quot; src=&quot;http://www.springsource.com/files/uploads/all/images/training/CertitfiedSpring_WebAppDev.png&quot;&lt;/a&gt;&lt;/div&gt;&lt;p&gt;The demand for Spring developers is sky-rocketing. As a consequence, the &lt;a href=&quot;http://www.springsource.com/training/certification/springprofessional&quot;&gt;Core-Spring certification&lt;/a&gt; exam has been a success and we now have thousands of people certified.
+It was time for us to go one step further. We are proud to announce 2 new certification exams in the Spring ecosystem: the &lt;a href=&quot;http://www.springsource.com/training/certification/webspecialist&quot;&gt;Web Application Developer Certification&lt;/a&gt; and the &lt;a href=&quot;http://www.springsource.com/training/certification/enterpriseintegrationspecialist&quot;&gt;Enterprise Integration Specialist Certification&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.springsource.com/training/certification/webspecialist&quot;&gt;Web Application Developer Certification&lt;/a&gt; demonstrates the ability to apply Spring&#039;s web projects to develop real-world Java web applications. The main Spring projects are Spring MVC, Spring Web Flow and Spring Security.
+A prerequisite to taking this certification exam is to attend the &quot;Rich Web Applications with Spring&quot; course.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.springsource.com/training/certification/enterpriseintegrationspecialist&quot;&gt;Enterprise Integration Specialist Certification&lt;/a&gt; covers Enterprise Application Integration using Spring, JMS, Spring Batch, Spring Integration and Spring Web Services. A prerequisite to taking this certification exam is to attend the &quot;Enterprise Integration with Spring&quot; course.&lt;/p&gt;
+</description>
+ <comments>http://www.springsource.org/certification/web-developer#comments</comments>
+ <category domain="http://www.springsource.org/taxonomy/term/4">News and Announcements</category>
+ <pubDate>Thu, 28 Apr 2011 13:14:05 +0000</pubDate>
+ <dc:creator>Mark Baars</dc:creator>
+ <guid isPermaLink="false">3120 at http://www.springsource.org</guid>
+</item>
+</channel>
+</rss>
